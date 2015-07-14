@@ -1,1 +1,2 @@
 Add some content to this file in order to verify that the changes are replicated.
+Content added from the repository on github.com. The first line of comment was introduced from the local repository.
